@@ -1,6 +1,7 @@
 # Vehicles API
 
-Start by using `node src/server.js`
+Start by running `npm i`,
+And afterwards `node src/server.js` to start the server.
 
 ### Endpoints
 * GET /api/vehicles
