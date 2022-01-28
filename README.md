@@ -2,6 +2,8 @@
 
 BWR home exercise.
 
+## How to run
+
 See README files for server and client directories for running instructions.
 
 ### out of scope (or, what would I do next):
