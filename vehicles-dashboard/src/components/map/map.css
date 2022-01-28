@@ -1,0 +1,17 @@
+.map-icon {
+    border: solid 3px;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.map-icon.on-mission {
+    border-color: #00ff00;
+}
+
+.map-icon.idle {
+    border-color: #ffa500;
+}
+
+.map-icon.unreachable {
+    border-color: #ff0000;
+}
